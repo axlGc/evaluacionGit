@@ -40,7 +40,7 @@ eps-microservicios/
 
 ## Autor
 
-- **Estudiante:** _______________________
-- **Usuario de GitHub:** _______________________
+- **Estudiante:**Jose Garcia Cadena
+- **Usuario de GitHub:** axlGc
 - **Asignatura:** Ingeniería de Software III — FI303290
 - **Período académico:** 2026-2
